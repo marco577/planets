@@ -1,3 +1,3 @@
-x = [1,2]
+x = [5,6]
 for i in x:
-	print("Hola")
+	print(x[i])
